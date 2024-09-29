@@ -103,6 +103,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Week 5\celsiusTemperatureTable.cpp" />
+    <ClCompile Include="Week 5\kineticEnergy.cpp" />
+    <ClCompile Include="Week 5\Lab 5\5.1 Code.cpp" />
+    <ClCompile Include="Week 5\Lab 5\5.3 Code.cpp" />
     <_WildCardClCompile Include="**/*.cpp" />
     <ClCompile Include="week 1\chapter_2_in_class_exercise_1\chapter_2_in_class_exercise_1\averagevalues.cpp" />
     <ClCompile Include="week 1\chapter_2_in_class_exercise_2\consoleapplication1\consoleapplication1\types.cpp" />

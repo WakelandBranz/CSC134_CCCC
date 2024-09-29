@@ -5,7 +5,7 @@
 #include <iostream> 
 using namespace std;
 
-int main()
+int logicalOp()
 {
 	char year; float gpa;
 
