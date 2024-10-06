@@ -9,7 +9,7 @@ By Wakeland Branz
 
 
 
-int main() {
+int lab_1_main() {
 
     char letter = 'a';
 

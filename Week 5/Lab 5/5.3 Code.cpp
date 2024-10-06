@@ -11,7 +11,7 @@ By Wakeland Branz
 #include <iostream>
 #include <iomanip>
 
-int main() {
+int lab_3_main() {
     int n, m;  // n is the start value, m is the end value
     int total = 0;  // total holds the sum of the numbers from n to m
     int count = 0;  // count of numbers in the range
