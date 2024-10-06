@@ -75,5 +75,8 @@
     <ClCompile Include="Week 6\chipsAndSalsa.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week 6\rainfallStatistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

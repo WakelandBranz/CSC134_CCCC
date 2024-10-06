@@ -19,7 +19,7 @@ Input Validation: Do not accept negative values for number of jars sold.
 #include <iostream>
 #include <iomanip>
 
-int main() {
+int chipsAndSalsa() {
     std::string salsaTypes[5] = { "mild", "medium", "sweet", "hot", "zesty" };
     int salsaSales[5];
     std::string highestSold = "";
