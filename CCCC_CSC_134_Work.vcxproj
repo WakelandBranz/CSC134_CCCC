@@ -108,7 +108,14 @@
     <ClCompile Include="Week 5\Lab 5\5.1 Code.cpp" />
     <ClCompile Include="Week 5\Lab 5\5.3 Code.cpp" />
     <ClCompile Include="Week 6\chipsAndSalsa.cpp" />
+    <ClCompile Include="Week 6\Lab 6\6.1 Code.cpp" />
+    <ClCompile Include="Week 6\Lab 6\6.2 Code.cpp" />
+    <ClCompile Include="Week 6\Lab 6\6.3 Code.cpp" />
+    <ClCompile Include="Week 6\loShuMagicSquare.cpp" />
     <ClCompile Include="Week 6\rainfallStatistics.cpp" />
+    <ClCompile Include="Week 8 (no week 7)\chargeAccountValidation.cpp" />
+    <ClCompile Include="Week 8 (no week 7)\lotteryTicket.cpp" />
+    <ClCompile Include="Week 8 (no week 7)\stringSelectionSort.cpp" />
     <_WildCardClCompile Include="**/*.cpp" />
     <ClCompile Include="week 1\chapter_2_in_class_exercise_1\chapter_2_in_class_exercise_1\averagevalues.cpp" />
     <ClCompile Include="week 1\chapter_2_in_class_exercise_2\consoleapplication1\consoleapplication1\types.cpp" />

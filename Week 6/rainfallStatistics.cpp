@@ -18,7 +18,7 @@ Input Validation: Do not accept negative numbers for monthly rainfall figures
 #include <iostream>
 #include <iomanip>
 
-int main() {
+int rainfallStatisticsMain() {
     double rainfall[12];
     double totalRainfall = 0;
     double average = 0;
