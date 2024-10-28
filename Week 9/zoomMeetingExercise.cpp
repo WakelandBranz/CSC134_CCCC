@@ -2,7 +2,7 @@
 
 int* reverseArray(int array[], int SIZE);
 
-int main() {
+int zoomMeetingMain() {
 	const int SIZE = 5;
 	int array[] = { 1, 2, 3, 4, 5 };
 

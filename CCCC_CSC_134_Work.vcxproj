@@ -116,6 +116,8 @@
     <ClCompile Include="Week 8 (no week 7)\chargeAccountValidation.cpp" />
     <ClCompile Include="Week 8 (no week 7)\lotteryTicket.cpp" />
     <ClCompile Include="Week 8 (no week 7)\stringSelectionSort.cpp" />
+    <ClCompile Include="Week 9\arrayAllocator.cpp" />
+    <ClCompile Include="Week 9\modeFunction.cpp" />
     <ClCompile Include="Week 9\referencesAndPointers.cpp" />
     <ClCompile Include="Week 9\zoomMeetingExercise.cpp" />
     <_WildCardClCompile Include="**/*.cpp" />
