@@ -24,7 +24,7 @@ bool colsPass(int square[][COLS], int sum);
 bool diagsPass(int square[][COLS], int sum);
 using namespace std;
 
-int magicmain() {
+int loshumagicsquaremain() {
 	int square[ROWS][COLS] = {	{4,9,2},
 								{3,5,7},
 								{8,1,6}	};
