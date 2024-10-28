@@ -10,8 +10,6 @@ int main() {
 
 	printf("%p", reversedArray);
 
-	
-
 	delete[] reversedArray;
 	reversedArray = nullptr;
 
@@ -28,8 +26,6 @@ int* reverseArray(int array[], const int SIZE) {
 	for (int i = 0, j = SIZE - 1; i < SIZE && j >= 0; i++, j--) {
 		arrayPtr[j] = array[i];
 	}
-
-
 
 	return arrayPtr;
 }
