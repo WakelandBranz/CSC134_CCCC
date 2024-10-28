@@ -108,6 +108,9 @@
     <ClCompile Include="Week 9\arrayAllocator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week 9\Lab 7\7.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Week 9\modeFunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

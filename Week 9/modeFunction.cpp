@@ -7,7 +7,7 @@ By Wakeland Branz
 
 8. Mode Function
 
-In statistics, the mode of a set of values is the value that occurs most often or with the greatest frequency. Write a function that accepts 
+In statistics, the mode of a set of values is the value that occurs most often or with the greatest frequency. Write a function that accepts
 as arguments the following:
 
 A) An array of integers
@@ -15,7 +15,7 @@ A) An array of integers
 B) An integer that indicates the number of elements in the array
 
 The function should determine the mode of the array. That is, it should determine which value in the array occurs most often. The mode is the
-value the function should return. If the array has no mode (none of the values occur more than once), the function should return −1. 
+value the function should return. If the array has no mode (none of the values occur more than once), the function should return −1.
 (Assume the array will always contain nonnegative values.)
 
 Demonstrate your pointer prowess by using pointer notation instead of array notation in this function.
@@ -26,7 +26,7 @@ Demonstrate your pointer prowess by using pointer notation instead of array nota
 
 int calculateMode(int* array, const int SIZE);
 
-int main() {
+int modeFunctionMain() {
 	// Test cases
 	int test1[] = { 1, 2, 3, 2, 2, 4, 5 };  // Mode should be 2
 	int test2[] = { 1, 2, 3, 4, 5 };        // No mode (-1)
