@@ -16,7 +16,7 @@ to the new array.
 #include <stdio.h>
 int* elementShifter(int* array, const int SIZE);
 
-int main() {
+int elementShifterMain() {
 	const int SIZE = 5;
 	int exampleArray[SIZE] = { 1, 2, 3, 4, 5 };
 	int* newArray = elementShifter(exampleArray, SIZE);
