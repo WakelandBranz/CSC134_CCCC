@@ -1,3 +1,3 @@
-int main() {
+int asdmain() {
 	return 0;
 }

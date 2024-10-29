@@ -117,6 +117,7 @@
     <ClCompile Include="Week 8 (no week 7)\lotteryTicket.cpp" />
     <ClCompile Include="Week 8 (no week 7)\stringSelectionSort.cpp" />
     <ClCompile Include="Week 9\arrayAllocator.cpp" />
+    <ClCompile Include="Week 9\elementShifter.cpp" />
     <ClCompile Include="Week 9\Lab 7\7.1.cpp" />
     <ClCompile Include="Week 9\modeFunction.cpp" />
     <ClCompile Include="Week 9\referencesAndPointers.cpp" />
