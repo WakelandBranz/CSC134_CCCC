@@ -29,7 +29,7 @@ float findAverage(const GradeType, int);	// finds average of all grades
 int   findHighest(const GradeType, int);	// finds highest of all grades 
 int   findLowest(const GradeType, int);		// finds lowest of all grades
 
-int main()
+int lab71main()
 {
 	bool debug = false;
 
