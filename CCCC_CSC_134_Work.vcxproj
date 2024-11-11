@@ -105,6 +105,7 @@
   <ItemGroup>
     <ClCompile Include="Week 10\backwardString.cpp" />
     <ClCompile Include="Week 10\backwardStringIdiomatic.cpp" />
+    <ClCompile Include="Week 10\Lab 8\8.3.cpp" />
     <ClCompile Include="Week 10\wordCounter.cpp" />
     <ClCompile Include="Week 5\celsiusTemperatureTable.cpp" />
     <ClCompile Include="Week 5\kineticEnergy.cpp" />

@@ -1,13 +1,11 @@
 /*
-C10_IE1 Assignment
+C10_IE4 Assignment
 By Wakeland Branz
 */
 
 /*
 
-Write a function that accepts a pointer to a C-string as an argument and displays its contents backward. For instance,
-if the string argument is "Gravity" the function should display "ytivarG". Demonstrate the function in a program that
-asks the user to input a string then passes it to the function.
+Code the Chapter 10 in class exercise1 using the C++ string class
 
 */
 
@@ -24,7 +22,7 @@ void displayBackward(const string& str) {
     cout << endl;
 }
 
-int main() {
+int backwardStringIdiomaticMain() {
     string userString; // String to hold user input
 
     // Get string from user
