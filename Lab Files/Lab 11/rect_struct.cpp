@@ -1,9 +1,9 @@
-#include <iostream>
-#include <iomanip>
+#include <iostream> 
+#include <iomanip> 
 using namespace std;
 
-// This program uses a structure to hold data about a rectangle
 
+// This program uses a structure to hold data about a rectangle
 // PLACE YOUR NAME HERE
 
 // Fill in code to declare a structure named rectangle which has
@@ -24,13 +24,11 @@ int main()
 	cout << endl << endl;
 
 	// Fill in code to compute the area member of box
-
 	// Fill in code to compute the perimeter member of box
 
 	cout << fixed << showpoint << setprecision(2);
 
 	// Fill in code to output the area with an appropriate message
-
 	// Fill in code to output the perimeter with an appropriate message
 
 	return 0;

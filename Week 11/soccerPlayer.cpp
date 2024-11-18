@@ -83,7 +83,7 @@ void printTableHeader() {
 }
 
 
-int main() {
+int soccerPlayerMain() {
     const int TEAM_SIZE = 12;
     Player team[TEAM_SIZE];
     int totalPoints = 0;
