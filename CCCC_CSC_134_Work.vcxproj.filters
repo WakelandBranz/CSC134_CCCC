@@ -129,5 +129,8 @@
     <ClCompile Include="Week 10\Lab 8\8.3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week 11\soccerPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

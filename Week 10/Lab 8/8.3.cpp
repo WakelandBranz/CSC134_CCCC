@@ -23,7 +23,7 @@ void displayArray(int[], int);
 
 const int SIZE = 8;
 
-int main()
+int lab8dot3Main()
 {
     // Using the array from Exercise 2
     int values[SIZE] = { 23, 0, 45, -3, -78, 1, -1, 9 };
