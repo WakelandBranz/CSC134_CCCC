@@ -14,7 +14,7 @@ struct taxPayer {
 	float taxes;
 };
 
-int main()
+int arrayStructMain()
 {
 	// Fill in code to define an array named citizen which holds
 	// 5 taxPayers structures

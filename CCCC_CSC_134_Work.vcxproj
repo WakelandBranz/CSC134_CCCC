@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -103,6 +103,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Missing Monday Exercise\inClassExercise.cpp" />
+    <ClCompile Include="Missing Monday Exercise\inClassExerciseComplete.cpp" />
     <ClCompile Include="Week 10\backwardString.cpp" />
     <ClCompile Include="Week 10\backwardStringIdiomatic.cpp" />
     <ClCompile Include="Week 10\Lab 8\8.3.cpp" />
@@ -111,6 +113,9 @@
     <ClCompile Include="Week 11\Lab 11\Lab11Work.cpp" />
     <ClCompile Include="Week 11\movieData.cpp" />
     <ClCompile Include="Week 11\soccerPlayer.cpp" />
+    <ClCompile Include="Week 12\employeeClass.cpp" />
+    <ClCompile Include="Week 12\Lab 12\circles.cpp" />
+    <ClCompile Include="Week 12\Lab 12\square.cpp" />
     <ClCompile Include="Week 5\celsiusTemperatureTable.cpp" />
     <ClCompile Include="Week 5\kineticEnergy.cpp" />
     <ClCompile Include="Week 5\Lab 5\5.1 Code.cpp" />
@@ -146,6 +151,9 @@
     <ClCompile Include="Week 4\Lab 4\LogicalOp.cpp" />
     <ClCompile Include="week 4\numericProcessing.cpp" />
     <ClCompile Include="week 4\personalWebpageGenerator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Missing Monday Exercise\Submission Info.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

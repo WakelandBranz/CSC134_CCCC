@@ -141,5 +141,14 @@
     <ClCompile Include="Week 11\Lab 11\array_struct.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week 12\employeeClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week 12\Lab 12\square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week 12\Lab 12\circles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

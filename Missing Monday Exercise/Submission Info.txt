@@ -1,0 +1,5 @@
+You will submit the following
+A copy of the tutorial produced by the AI.(md or html file)
+A copy of the in class exercise with a solution(.cpp files)
+A copy of your power points
+An mp4 file or Yuja link that contains you lecture.
